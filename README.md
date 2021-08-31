@@ -79,7 +79,7 @@ body::before {
 <h3><span class="white">極太アンテナのカタログデータ。</span></h3>
 <a href="20210831_006.png" data-lightbox="abc"><img src="20210831_006.png" alt="サンプル画像" width="900" /></a>
 <br>
-<h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナはSG7900で奇跡を残せた全域でノードにアクセス出来ないのと、APRSの奇跡を残せませんでした。</span></h2>
+<h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナはSG7900で奇跡を残せた全域でノードにアクセス出来ないのと、APRSの軌跡を残せませんでした。</span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
