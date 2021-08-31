@@ -10,7 +10,7 @@
 color: #fffafa;
 font-size: 1.5em;
  }
-<!--
+
  .red {color:#ff0000;}
  .grey {color:#999999;}
  .snow {color:#fffafa;}
@@ -20,7 +20,7 @@ font-size: 1.5em;
  .waku {border:2px dotted #99cc66;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
- -->
+
 	
  #preview{
 	position: relative;
