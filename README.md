@@ -66,7 +66,7 @@ body::before {
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、<br>実験しました。リグはFTM300Dで５０Watt送信。<br>コースは宇都宮から１駅北上した岡本駅から東側の鬼怒川を渡って、南南東に降るルート。</span></h3>
+<h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、<br>実験しました。リグはFTM300Dで50Watt送信。<br>コースは宇都宮から１駅北上した岡本駅から東側の鬼怒川を渡って、南南東に降るルート。</span></h3>
 <a href="20210831_004.png" data-lightbox="abc"><img src="20210831_004.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">比較したのは、テールゲートのダイヤモンドSG7900と、最近見かける極太アンテナ。</span></h3>
 <a href="20210831_001.jpg" data-lightbox="abc"><img src="20210831_001.jpg" alt="サンプル画像" width="900" /></a>
