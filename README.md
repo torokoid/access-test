@@ -66,7 +66,7 @@ body::before {
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、<br>実験しました。リグはFTM300Dで50Watt送信。<br>コースは宇都宮から１駅北上した岡本駅から東側の鬼怒川を渡って、南南東に降るルート。</span></h3>
+<h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、<br>実験しました。リグはFTM300Dで50Watt送信。<br>コースは宇都宮から１駅北上した岡本駅から東側の鬼怒川を渡って、南南東に進むルート。<br>東進、南下側で屋根上のアンテナ、Uターンして、北上、西進側でテールゲートのアンテナを試しました。</span></h3>
 <a href="20210831_004.png" data-lightbox="abc"><img src="20210831_004.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">比較したのは、テールゲートのダイヤモンドSG7900と、最近見かける極太アンテナ。</span></h3>
 <a href="20210831_001.jpg" data-lightbox="abc"><img src="20210831_001.jpg" alt="サンプル画像" width="900" /></a>
@@ -79,7 +79,7 @@ body::before {
 <h3><span class="white">極太アンテナのカタログデータ。</span></h3>
 <a href="20210831_006.png" data-lightbox="abc"><img src="20210831_006.png" alt="サンプル画像" width="900" /></a>
 <br>
-<h2><span class="blue">結果はSG7900の圧勝でした。<br>極太アンテナはSG7900で奇跡を残せた全域でノードにアクセス出来ないのと、APRSの奇跡を残せませんでした。</span></h2>
+<h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナはSG7900で奇跡を残せた全域でノードにアクセス出来ないのと、APRSの奇跡を残せませんでした。</span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
