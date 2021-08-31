@@ -66,18 +66,18 @@ body::before {
 
 <h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、実験しました。</span></h3>
 <a href="20210831_004.png" data-lightbox="abc"><img src="20210831_004.png" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">台風９号の風で霞が飛んで、この季節にしては珍しく遠くまで見えています。<br>筑波山（右の山）もクッキリ。</span></h3>
+<h3><span class="white">比較したのは、テールゲートのダイヤモンドSG7900と、最近見かける極太アンテナ。</span></h3>
 <a href="20210831_001.jpg" data-lightbox="abc"><img src="20210831_001.jpg" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">地平線上には池袋と新宿の高層ビル群。</span></h3>
+<h3><span class="white">SG7900はやけに長いので、走行中に揺れないように釣り糸で２方向に引っ張りました。</span></h3>
 <a href="20210831_002.jpg" data-lightbox="abc"><img src="20210831_002.jpg" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">スカイツリーも見えています。</span></h3>
+<h3><span class="white">極太アンテナは、給電部高さ的には有利な位置にセット。</span></h3>
 <a href="20210831_003.jpg" data-lightbox="abc"><img src="20210831_003.jpg" alt="サンプル画像" width="900" /></a>	
-<h3><span class="white">さすがにこれは拡大しないと見えないので、それぞれのアップ。</span></h3>
+<h3><span class="white">SG7900のカタログデータ。</span></h3>
 <a href="20210831_005.png" data-lightbox="abc"><img src="20210831_005.png" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">さすがにこれは拡大しないと見えないので、それぞれのアップ。</span></h3>
+<h3><span class="white">極太アンテナのカタログデータ。</span></h3>
 <a href="20210831_006.png" data-lightbox="abc"><img src="20210831_006.png" alt="サンプル画像" width="900" /></a>
-
-
+<br>
+<h3><span class="white">結果はSG7900の圧勝でした。<br>極太アンテナはSG7900で奇跡を残せた全域でノードにアクセス出来ないのと、APRSの奇跡を残せませんでした。</span></h3>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
