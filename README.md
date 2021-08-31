@@ -47,7 +47,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/access test/20210831_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/access-test/20210831_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -64,8 +64,8 @@ body::before {
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月31日(火)栃木県宇都宮市~芳賀郡高根沢町でアンテナテスト !!!</marquee></span></h1>
 
-<h3><span class="white">JR宇都宮駅から22kmほど北上したところにある、羽黒山に登って無線とお参りしてきました。</span></h3>
-<a href="20210810_063.png" data-lightbox="abc"><img src="20210810_063.png" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、実験しました。</span></h3>
+<a href="20210831_004.png" data-lightbox="abc"><img src="20210831_004.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">台風９号の風で霞が飛んで、この季節にしては珍しく遠くまで見えています。<br>筑波山（右の山）もクッキリ。</span></h3>
 <a href="20210810_001.JPG" data-lightbox="abc"><img src="20210810_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">地平線上には池袋と新宿の高層ビル群。</span></h3>
