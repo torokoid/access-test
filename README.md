@@ -86,8 +86,17 @@ body::before {
 	<br><br>
 <h3><span class="white">次のテストは、アンテナ角度変えられるマグネット基台で、屋根上に設置しアンテナを前に倒してみますかね〜自衛隊の車がよくやってるやつです。<br>基台の候補はこれ。</span></h3>
 <a href="20210831_008.png" data-lightbox="abc"><img src="20210831_008.png" alt="サンプル画像" width="900" /></a>	
+<h3><span class="white">アンテナを倒す件、いろいろ教えて頂く四国のOM殿に聞いてみると、430は縦偏波だから厳しいかもね〜とのサジェッションいただきました。<br>ただ、ハンディー機を手持ちで使う時にかなり横にしても使えているので、試しにノード局に縦と横でアクセスする実験。</span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2nbK59qE9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nfo6nvLNa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3><span class="white">まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点アップ効果と偏波面寝せたネガの比較実験してみましょう。</span></h3>	
+	
 <br><br>
+	
+<br><br><br><br><br><br><br><br>
 <h2><span class="white">追加情報</span></h2>
 <h3><span class="yellow">最近のアンテナのカタログに(DIGITAL対応)と書かれているのが気になったので、メーカーにメールして確認しました。<br>結論は「関係ありません」とのこと。<br>以下メールやり取りの記録。問い合わせから返答まで、26分の速さにはびっくりです。</span></h3>
 <a href="20210831_009.png" data-lightbox="abc"><img src="20210831_009.png" alt="サンプル画像" width="900" /></a>	
