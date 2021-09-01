@@ -80,6 +80,9 @@ body::before {
 <a href="20210831_006.png" data-lightbox="abc"><img src="20210831_006.png" alt="サンプル画像" width="900" /></a>
 <br>
 <h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナは全域でノードにアクセス出来ず＆APRSの軌跡を残せずでした。<br>SG7900は基地局に対して車体の後ろに回った状態でもアクセス出来てました。<br>Amazonの口コミを見たら、極太アンテナは２mの波が出ないと書かれてます。</span></h2>
+	<br>
+<h2><span class="yellow">追加試験<br>自宅に上げたGPがハンディー機で波出せるかチェックしました。<br>物置から引っ張り出したGPはなんと1.2GHz対応で、N型接栓。セットの同軸もやけに太いものでしたが、ハンディー機の5Wattで宇都宮のノード局にすんなり接増。<br>現時点の結論は、車側の空中線が非力・・・給電点高さをなんとか確保すべき！</span></h2>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
