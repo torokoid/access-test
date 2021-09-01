@@ -86,13 +86,13 @@ body::before {
 	<br><br>
 <h3><span class="white">次のテストは、アンテナ角度変えられるマグネット基台で、屋根上に設置しアンテナを前に倒してみますかね〜自衛隊の車がよくやってるやつです。<br>基台の候補はこれ。</span></h3>
 <a href="20210831_008.png" data-lightbox="abc"><img src="20210831_008.png" alt="サンプル画像" width="900" /></a>	
-<h3><span class="white">アンテナを倒す件、いろいろ教えて頂く四国のOM殿に聞いてみると、430は縦偏波だから厳しいかもね〜とのサジェッションいただきました。<br>ただ、ハンディー機を手持ちで使う時にかなり横にしても使えているので、試しにノード局に縦と横でアクセスする実験。</span></h3>
+<h3><span class="white">9月1日にアンテナを倒す件を、いつもいろいろ教えて頂く四国のOM殿に聞いてみると、430は縦偏波だから厳しいかもね〜とのサジェッションいただきました。<br>ただ、ハンディー機を手持ちで使う時にかなり横にしても使えているので、試しにノード局に縦と横でアクセスする実験しました。</span></h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2nbK59qE9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfo6nvLNa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3><span class="white">接続の確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたネガの比較で、どちらが勝つか実験してみましょう。<br>本日9/1はここまでです。</span></h3>	
+<h3><span class="white">接続の成功確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたネガの比較で、どちらが勝つか実験してみましょう。<br>本日9/1はここまでです。</span></h3>	
 	
 <br><br>
 	
