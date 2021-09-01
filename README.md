@@ -85,7 +85,7 @@ body::before {
 <h2><span class="yellow">自宅に上げたGPアンテナでハンディー機から波出せるかチェックしました。<br>物置から引っ張り出したGPはなんと1.2GHz対応で、N型接栓。セットの同軸もやけに太いものでしたが、ハンディー機の5Watt出力で宇都宮のノード局にすんなり接増。<br>現時点の結論は、車側の空中線が非力・・・給電点高さをなんとか確保すべき！</span></h2>
 	<br><br>
 <h3><span class="white">次のテストは、アンテナ角度変えられるマグネット基台で、屋根上に設置しアンテナを前に倒してみますかね〜自衛隊の車がよくやってるやつです。<br>基台の候補はこれ。</span></h3>
-<a href="20210831_007.png" data-lightbox="abc"><img src="20210831_007.png" alt="サンプル画像" width="900" /></a>	
+<a href="20210831_008.png" data-lightbox="abc"><img src="20210831_008.png" alt="サンプル画像" width="900" /></a>	
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
