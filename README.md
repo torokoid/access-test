@@ -87,6 +87,11 @@ body::before {
 <h3><span class="white">次のテストは、アンテナ角度変えられるマグネット基台で、屋根上に設置しアンテナを前に倒してみますかね〜自衛隊の車がよくやってるやつです。<br>基台の候補はこれ。</span></h3>
 <a href="20210831_008.png" data-lightbox="abc"><img src="20210831_008.png" alt="サンプル画像" width="900" /></a>	
 
+<br><br>
+<h2><span class="white">追加情報</span></h2>
+<h3><span class="white">最近のアンテナのカタログに(DIGITAL対応)と書かれているのが気になったので、メーカーにメールして確認しました。<br>結論は「関係ありません」とのこと。<br>以下メールやり取りの記録。問い合わせから返答まで、26分の速さにはびっくりです。</span></h3>
+<a href="20210831_009.png" data-lightbox="abc"><img src="20210831_009.png" alt="サンプル画像" width="900" /></a>	
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
