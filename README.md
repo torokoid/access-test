@@ -101,10 +101,18 @@ body::before {
 	
 <br><br>
 	
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2><span class="white">追加情報</span></h2>
 <h3><span class="yellow">最近のアンテナのカタログに(DIGITAL対応)と書かれているのが気になったので、メーカーにメールして確認しました。<br>結論は「関係ありません」とのこと。<br>以下メールやり取りの記録。問い合わせから返答まで、26分の速さにはびっくりです。</span></h3>
 <a href="20210831_009.png" data-lightbox="abc"><img src="20210831_009.png" alt="サンプル画像" width="900" /></a>	
+
+<br><br><br><br><br>
+
+<h3><span class="yellow">YAESUのハンディー機がACアダプターで充電しながらの送信ができない様なので、メーカーにメールで問い合わせしました。<br>結論は送信には未対応、オプションを使えば送信可能とのことでした。</span></h3>
+<a href="20210831_013.png" data-lightbox="abc"><img src="20210831_013.png" alt="サンプル画像" width="900" /></a>	
+<h2><span class="white">さらに、シガーライター電源のケースに何か回路が入っているのか？問い合わせました。</span></h2>
+<a href="20210831_014.png" data-lightbox="abc"><img src="20210831_014.png" alt="サンプル画像" width="900" /></a>
+<h3><span class="yellow">最後の問い合わせには、直接電話での回答が来ました。<br>結論は「ノイズ対策用フィルタ」と「トリクル充電回路が入っています」との事。<br>安定化電源を使うときはノイズは無いので直結で可、<br>トリクル充電回路は、無線機の状態によって、充電に98%、運用に2%などの割合調整をしているとの事でした。</span></h3>	
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
