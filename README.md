@@ -82,7 +82,11 @@ body::before {
 <h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナは全域でノードにアクセス出来ず＆APRSの軌跡を残せずでした。<br>SG7900は基地局に対して車体の後ろに回った状態でもアクセス出来てました。<br>Amazonの口コミを見たら、極太アンテナは２mの波が出ないと書かれてます。</span></h2>
 	<br>
 <h2><span class="white">追加試験</span></h2>	
-<h2><span class="yellow">自宅に上げたGPアンテナでハンディー機から波出せるかチェックしました。<br>物置から引っ張り出したGPはなんと1.2GHz対応で、N型接栓。セットの同軸もやけに太いものでしたが、ハンディー機の5Watt出力で宇都宮のノード局にすんなり接続。<br>現時点の結論は、車側の空中線が非力・・・給電点高さを確保してみましょう！</span></h2>
+<h2><span class="yellow">自宅に上げたGPアンテナでハンディー機から波出せるかチェックしました。<br>物置から引っ張り出したGPはなんと1.2GHz対応で、N型接栓。セットの同軸もやけに太いものでしたが、ハンディー機の5Watt出力で宇都宮のノード局にすんなり接続。給電点の高さは3m程度ですね。</span></h2>
+
+<a href="20210831_010.png" data-lightbox="abc"><img src="20210831_010.png" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">現時点の結論は、車側の空中線が非力・・・給電点高さを確保してみましょう！</span></h2>
 	<br><br>
 <h3><span class="white">次のテストは、アンテナ角度変えられるマグネット基台で、屋根上に設置しアンテナを前に倒してみますかね〜自衛隊の車がよくやってるやつです。<br>基台の候補はこれ。</span></h3>
 <a href="20210831_008.png" data-lightbox="abc"><img src="20210831_008.png" alt="サンプル画像" width="900" /></a>	
@@ -92,7 +96,7 @@ body::before {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfo6nvLNa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3><span class="white">接続の成功確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたネガの比較で、どちらが勝つか実験してみましょう。<br>本日9/1はここまでです。</span></h3>	
+<h3><span class="white">接続の成功確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたネガの比較で、どちらが勝つか実験してみましょう。<br>電波がものに当たって反射すると、偏波面が回転する？と言う仄かな記憶にも期待中〜本日9/1はここまでです。</span></h3>	
 	
 <br><br>
 	
