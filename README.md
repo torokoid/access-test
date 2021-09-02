@@ -97,7 +97,7 @@ body::before {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfo6nvLNa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3><span class="white">接続の成功確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたネガの比較で、どちらが勝つか実験してみましょう。<br>電波がものに当たって反射すると、偏波面が回転する？と言う仄かな記憶にも期待中〜本日9/1はここまでです。</span></h3>	
+<h3><span class="white">接続の成功確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたネガの比較で、どちらが勝つか実験してみましょう。<br>電波がものに当たって反射すると、偏波面が回転する？と言うほのかな記憶にも期待中〜<br>本日9/1はここまでです。</span></h3>	
 	
 <br><br>
 	
