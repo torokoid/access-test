@@ -85,7 +85,7 @@ body::before {
 <h2><span class="yellow">自宅に上げたGPアンテナでハンディー機から波出せるかチェックしました。<br>物置から引っ張り出したGPはなんと1.2GHz対応で、N型接栓。セットの同軸もやけに太いものでしたが、ハンディー機の5Watt出力で宇都宮のノード局にすんなり接続。<br>給電点の高さは3m程度ですね。</span></h2>
 
 <a href="20210831_011.jpg" data-lightbox="abc"><img src="20210831_011.jpg" alt="サンプル画像" width="400" /></a>	
-<a href="20210831_010.jpg" data-lightbox="abc"><img src="20210831_010.jpg" alt="サンプル画像" width="400" /></a>
+<a href="20210831_012.JPG" data-lightbox="abc"><img src="20210831_012.JPG" alt="サンプル画像" width="400" /></a>
 
 <h2><span class="yellow">現時点の結論は、車側の空中線が非力・・・給電点高さを確保してみましょう！</span></h2>
 	<br><br>
