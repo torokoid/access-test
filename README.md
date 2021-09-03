@@ -105,7 +105,8 @@ body::before {
 <h2><span class="white">追加情報</span></h2>
 <h2><span class="yellow">最近のアンテナのカタログに(DIGITAL対応)と書かれているのが気になったので、<br>メーカーにメールして確認しました。<br>結論は「関係ありません」とのこと。<br>以下メールやり取りの記録。問い合わせから返答まで、26分の速さにはびっくりです。</span></h2>
 <a href="20210831_009.png" data-lightbox="abc"><img src="20210831_009.png" alt="サンプル画像" width="900" /></a>	
-
+<h2><span class="white">この話を無線仲間にも伝える旨をお礼と共に打診しました。</span></h2>
+<a href="20210831_016.png" data-lightbox="abc"><img src="20210831_016.png" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br>
 
 <h2><span class="yellow">YAESUのハンディー機がACアダプターで充電しながらの送信ができない様なので、<br>メーカーにメールで問い合わせしました。<br>結論は送信には未対応、オプションを使えば送信可能とのことでした。</span></h2>
