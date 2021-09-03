@@ -62,7 +62,7 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
-<p>access-test<a href="https://torokoid.github.io/access-test">>access-test2</a></p>
+<p>access-test<a href="https://torokoid.github.io/access-test2">>access-test2</a></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月31日(火)栃木県宇都宮市~芳賀郡高根沢町でアンテナテスト !!!</marquee></span></h1>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
